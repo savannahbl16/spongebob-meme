@@ -14,4 +14,5 @@ def mock(string):
         index+=1
     return string
 
-user_input = input("Enter word: ")
+user_input = input("Enter sentence to be mocked: ")
+print(mock(user_input))
