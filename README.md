@@ -1,1 +1,1 @@
-# spongebob-meme
+# This program takes a string as an input from a user and outputs a new string in the form of the popular mocking Spongebob Meme. For example, "Abcd. Efgh.. Ijkl!" would return "abCd. efGh.. IJkL!". I did this by changing the case of every even indexed number. This program is written using Python. 
